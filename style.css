@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #0000000; /* Black background */
+    background-color: #000000; /* Black background */
     overflow: hidden;
     font-family: sans-serif;
 }
